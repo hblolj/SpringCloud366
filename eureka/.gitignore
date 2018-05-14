@@ -15,6 +15,10 @@
 *.iws
 *.iml
 *.ipr
+.mvn
+mvnw.cmd
+mvnw
+.gitignore
 
 ### NetBeans ###
 /nbproject/private/
@@ -23,3 +27,9 @@
 /dist/
 /nbdist/
 /.nb-gradle/
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+out
+gen
